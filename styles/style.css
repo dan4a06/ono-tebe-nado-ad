@@ -52,7 +52,7 @@
     border-bottom: 1px #000000 solid;
 }
 
-.header__address{
+.header__address {
     max-width: 240px;
     justify-self: end;
 }
